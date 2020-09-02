@@ -1,6 +1,6 @@
 # Community
 
-Get involved into the Blade UI Kit community.
+Get involved in the Blade UI Kit community.
 
 ## Discord
 
